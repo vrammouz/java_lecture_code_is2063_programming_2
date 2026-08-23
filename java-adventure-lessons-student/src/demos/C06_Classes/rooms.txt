@@ -1,0 +1,9 @@
+THE OLD LIBRARY
+Dust hangs in the light from a high window.
+north,east
+THE GALLERY
+Portraits watch you from both walls.
+south
+THE STOREROOM
+A heavy chest sits in the corner.
+west
