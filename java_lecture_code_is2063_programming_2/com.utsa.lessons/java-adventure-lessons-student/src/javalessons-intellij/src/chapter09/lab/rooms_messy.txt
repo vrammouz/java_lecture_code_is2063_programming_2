@@ -1,4 +1,0 @@
-  THE OLD LIBRARY | Dust hangs in the light. | north,east | 0
-THE GALLERY|Portraits watch you.|south|5
-   THE STOREROOM   |   A heavy chest.   |   west   |   12
-THE FLOODED CELLAR|Cold water laps.|up|3
