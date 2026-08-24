@@ -1,8 +1,0 @@
-42
-17
-not-a-number
-99
-
-8
-oops
-31
